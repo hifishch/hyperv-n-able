@@ -1,7 +1,7 @@
-﻿#Powershell HyperV VM-Check for Solarwinds RMM
+﻿#Powershell HyperV VM-Check for N-able RMM
 #Author: Andreas Walker andreas.walker@walkerit.ch
 #Licence: GNU General Public License v3.0
-#Version: 1.0.0 / 20.10.2019
+#Version: 1.0.1 / 12.08.2021
 
 #Define paremeter
 Param (
